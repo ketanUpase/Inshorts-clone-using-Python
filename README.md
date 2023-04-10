@@ -1,2 +1,2 @@
 # Inshorts-clone-using-Python
-This Application is made in Python using GUI + OOP + API 
+This News Application is made in Python using GUI + OOP + API 
